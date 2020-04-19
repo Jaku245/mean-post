@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 import { PostsListComponent } from './posts/posts-list/posts-list.component';
-import { PostsCreateComponent } from './posts/posts-create/posts-create.Component';
+import { PostsCreateComponent } from './posts/posts-create/posts-create.component';
 import { AuthGuard } from './auth/auth.guard';
 import { AuthModule } from './auth/auth.module';
 

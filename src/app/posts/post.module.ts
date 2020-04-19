@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { RouterModule } from '@angular/router';
 import { ReactiveFormsModule } from '@angular/forms';
 
-import { PostsCreateComponent } from './posts-create/posts-create.Component';
+import { PostsCreateComponent } from './posts-create/posts-create.component';
 import { PostsListComponent } from './posts-list/posts-list.component';
 import { AngularMaterialModule } from '../angular-material.module';
 
