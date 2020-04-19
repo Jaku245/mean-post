@@ -8,7 +8,7 @@ import { strict } from 'assert';
 import { Router } from '@angular/router';
 import { environment } from 'src/environments/environment';
 
-const BACKEND_URL = environment.apiUrls + "/posts/";
+const BACKEND_URL = environment.apiUrls+"/posts/";
 
 @Injectable({providedIn: 'root'})
 
